@@ -1,0 +1,7 @@
+{
+  "name": "e-KTP OCR",
+  "description": "Aplikasi pembaca e-KTP berbasis OCR untuk mengekstrak data identitas otomatis ke database Room",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
